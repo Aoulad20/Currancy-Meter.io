@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.grid-container{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    margin:10% ;
+    width: 400px;
+    height: auto;
+}
+
+#formBody{
+    display: flex;
+    align-items: center;
+}
+
